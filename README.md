@@ -1,1 +1,1 @@
-# Global Hapiness Index Analysis
+# Global Happiness Index Analysis
